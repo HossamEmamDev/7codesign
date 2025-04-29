@@ -338,6 +338,9 @@ margin: -22px 0 0;
 .services{
     background-color: var(--four-color);
     padding-bottom: 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 .serv-content {
@@ -398,6 +401,9 @@ margin: -22px 0 0;
 .Portfolio, .services{
     background-color: #ebebeb1f;
     box-shadow: 0 0 19px #455a642e;
+     display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 
